@@ -49,6 +49,10 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=LeaveMyYard&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeaveMyYard&hide=java&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+**I am a codewars player, check my stats**
+
+![Codewars stats](https://www.codewars.com/users/LeaveMyYard/badges/large)
+
 **Also, check this out**
 
 <div align="center">
