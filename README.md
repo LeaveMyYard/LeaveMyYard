@@ -2,15 +2,13 @@
 
 **Do you wanna develop an app?*
 
--   :mortar_board: Recent computer science graduate from UNC - Chapel Hill
+-   :mortar_board: Applied mathematics student in Odessa I.I.Mechnikov National University (4th grade)
 -   :test_tube: Finishing up my research in cybersecurity and preparing to make the industry transition
 -   :ringed_planet: Looking forward to global net zero, Mars & the rest of space, and nuclear fusion
 -   :mailbox: Ask me about accessibility, cybersecurity, web, full stack, or literally anything!
 
-[![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/adamalston)
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aalston9@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adammalston/)
-[![adamalston.com](https://img.shields.io/badge/-ADAMALSTON.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.adamalston.com/)
+[![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/LeaveMyYard)
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](zhukovpavel2001@gmail.com)
 
 **Languages I have used**
 
@@ -38,7 +36,7 @@
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-000000?style=flat&logo=cisco&logoColor=white)
 ![XCode](https://img.shields.io/badge/-XCode-000000?style=flat&logo=XCode&logoColor=1575F9)
 
-<div style="border: 4px double black;" align="center">
+<div align="center">
 	<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
 		<img src="https://github.com/sindresorhus/sindresorhus/raw/master/info.svg?sanitize=true">
 	</a>
