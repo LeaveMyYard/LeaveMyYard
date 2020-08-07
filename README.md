@@ -1,4 +1,6 @@
-<img src = "https://media.giphy.com/media/KxtZLJlAAwNGUVH2eV/giphy.gif">
+<div align="center">
+	<img src = "https://media.giphy.com/media/KxtZLJlAAwNGUVH2eV/giphy.gif">
+</div>
 
 **Do you wanna develop an app?*
 
