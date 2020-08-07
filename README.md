@@ -1,8 +1,7 @@
 <div align="center">
 	<img src = "https://media.giphy.com/media/KxtZLJlAAwNGUVH2eV/giphy.gif">
+	**Do you wanna develop an app?**
 </div>
-
-**Do you wanna develop an app?*
 
 -   :mortar_board: Applied mathematics student in Odessa I.I.Mechnikov National University (4th grade)
 -   :test_tube: Working in a startup, using ML, Python and Cuda
