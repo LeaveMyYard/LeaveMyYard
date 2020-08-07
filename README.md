@@ -39,7 +39,7 @@
 ![BootStrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
 ![SQLite3](https://img.shields.io/badge/-SQLite3-000000?style=flat&logo=sqlite)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&logoColor=FFFFFF)
-![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=openCV)
+![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=C%2B%2B&)
 
 **Also, check this out:**
 
