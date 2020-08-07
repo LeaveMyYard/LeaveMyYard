@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+![LeaveMyYard's github stats](https://github-readme-stats.vercel.app/api?username=LeaveMyYard&count_private=true)
 
 Here are some ideas to get you started:
 
