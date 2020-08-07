@@ -4,7 +4,7 @@
 
 -   :mortar_board: Applied mathematics student in Odessa I.I.Mechnikov National University (4th grade)
 -   :test_tube: Working in a startup, using ML, Python and Cuda
--   🪙 A big fan of blockchain and cryptocurrencies
+-   :moneybag: A big fan of blockchain and cryptocurrencies
 
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/LeaveMyYard)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](zhukovpavel2001@gmail.com)
