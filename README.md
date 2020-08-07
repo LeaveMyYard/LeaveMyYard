@@ -30,6 +30,7 @@
 ![Cuda](https://img.shields.io/badge/-Cuda-000000?style=flat&logo=nvidia)
 ![NumPy](https://img.shields.io/badge/-Numpy-000000?style=flat&logo=numpy)
 ![Pandas](https://img.shields.io/badge/-Pandas-000000?style=flat&logo=pandas)
+![Anaconda](https://img.shields.io/badge/-Anaconda-000000?style=flat&logo=anaconda)
 ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD)
 
 **Also, check this out:**
