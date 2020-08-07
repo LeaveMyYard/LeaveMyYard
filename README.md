@@ -3,9 +3,8 @@
 **Do you wanna develop an app?*
 
 -   :mortar_board: Applied mathematics student in Odessa I.I.Mechnikov National University (4th grade)
--   :test_tube: Finishing up my research in cybersecurity and preparing to make the industry transition
--   :ringed_planet: Looking forward to global net zero, Mars & the rest of space, and nuclear fusion
--   :mailbox: Ask me about accessibility, cybersecurity, web, full stack, or literally anything!
+-   :test_tube: Working in a startup, using ML, Python and Cuda
+-   ₿ A big fan of blockchain and cryptocurrencies
 
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/LeaveMyYard)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](zhukovpavel2001@gmail.com)
@@ -36,7 +35,7 @@
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-000000?style=flat&logo=cisco&logoColor=white)
 ![XCode](https://img.shields.io/badge/-XCode-000000?style=flat&logo=XCode&logoColor=1575F9)
 
-**Also, check this out: (could load a little slow)**
+**Also, check this out:**
 
 <div align="center">
 	<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
