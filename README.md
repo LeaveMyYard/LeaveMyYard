@@ -8,7 +8,7 @@
 
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/LeaveMyYard)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zhukovpavel2001@gmail.com)
-[![Bitcoin](https://img.shields.io/badge/-BITCOIN-FCD12A?style=for-the-badge&logo=bitcoin&logoColor=white)](https://t.me/LeaveMyYard)
+[![Bitcoin](https://img.shields.io/badge/-BITCOIN-FCD12A?style=for-the-badge&logo=bitcoin&logoColor=white)](bitcoin:1DF9jgzftTFn4ZnDV2YEjUtZ3uHtBywj57)
 [![Ethereum](https://img.shields.io/badge/-ETHEREUM-551A8B?style=for-the-badge&logo=ethereum&logoColor=white)](https://t.me/LeaveMyYard)
 
 **Languages I have used**
