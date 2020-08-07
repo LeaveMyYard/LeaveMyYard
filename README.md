@@ -44,14 +44,14 @@
 ![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=C%2B%2B&)
 ![Android Studio](https://img.shields.io/badge/-AndroidStudio-000000?style=flat&logo=android)
 
+**I am a codewars player, check my stats**
+
+![Codewars stats](https://www.codewars.com/users/LeaveMyYard/badges/large)
+
 **Some stats**
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=LeaveMyYard&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeaveMyYard&hide=java&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-**I am a codewars player, check my stats**
-
-![Codewars stats](https://www.codewars.com/users/LeaveMyYard/badges/large)
 
 **Also, check this out**
 
