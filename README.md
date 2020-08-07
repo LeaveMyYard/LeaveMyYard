@@ -42,11 +42,12 @@
 ![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=C%2B%2B&)
 ![Android Studio](https://img.shields.io/badge/-AndroidStudio-000000?style=flat&logo=android)
 
-**Some stats:**
-![Github stats](https://github-readme-stats.vercel.app/api?username=LeaveMyYard&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeaveMyYard&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+**Some stats**
 
-**Also, check this out:**
+![Github stats](https://github-readme-stats.vercel.app/api?username=LeaveMyYard&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeaveMyYard&hide=java&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+**Also, check this out**
 
 <div align="center">
 	<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
