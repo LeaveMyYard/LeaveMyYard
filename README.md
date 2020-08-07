@@ -40,7 +40,6 @@
 ![SQLite3](https://img.shields.io/badge/-SQLite3-000000?style=flat&logo=sqlite)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&logoColor=FFFFFF)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=C%2B%2B&)
-![IPython](https://img.shields.io/badge/-IPython-000000?style=flat&logo=jupiter)
 
 **Also, check this out:**
 
