@@ -32,7 +32,7 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-000000?style=flat&logo=pandas)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-000000?style=flat&logo=anaconda)
 ![Qt](https://img.shields.io/badge/-Qt-000000?style=flat&logo=qt)
-![PyQt5](https://img.shields.io/badge/-PyQt5-000000?style=flat&logo=qt)
+![PyQt5](https://img.shields.io/badge/-PyQt5-000000?style=flat&logo=pyqt)
 ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD)
 
 **Also, check this out:**
