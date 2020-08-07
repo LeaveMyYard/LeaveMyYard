@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![LeaveMyYard's github stats](https://github-readme-stats.vercel.app/api?username=LeaveMyYard&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeaveMyYard)](https://github.com/LeaveMyYard/github-readme-stats)
 
 Here are some ideas to get you started:
 
