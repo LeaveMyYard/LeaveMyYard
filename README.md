@@ -1,4 +1,4 @@
-<img style="border: 4px double black;" src = "https://media.giphy.com/media/H7r5XcQccQvlXPwUOR/giphy.gif">
+<img src = "https://media.giphy.com/media/H7r5XcQccQvlXPwUOR/giphy.gif">
 
 **Do you wanna develop an app?*
 
@@ -38,7 +38,7 @@
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-000000?style=flat&logo=cisco&logoColor=white)
 ![XCode](https://img.shields.io/badge/-XCode-000000?style=flat&logo=XCode&logoColor=1575F9)
 
-<div align="center">
+<div style="border: 4px double black;" align="center">
 	<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
 		<img src="https://github.com/sindresorhus/sindresorhus/raw/master/info.svg?sanitize=true">
 	</a>
