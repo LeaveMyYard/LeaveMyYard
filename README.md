@@ -35,9 +35,10 @@
 ![PyQt5](https://img.shields.io/badge/-PyQt5-000000?style=flat&logo=qt)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=python)
 ![Unreal Engine 4](https://img.shields.io/badge/-UnrealEngine4-000000?style=flat&logo=C%2B%2B&)
-![REST](https://img.shields.io/badge/-REST-000000?style=flat&logo=restapi)
 ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD)
 ![BootStrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
+![SQLite3](https://img.shields.io/badge/-SQLite3-000000?style=flat&logo=sqlite3)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
 
 **Also, check this out:**
 
