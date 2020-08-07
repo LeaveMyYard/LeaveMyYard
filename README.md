@@ -33,8 +33,8 @@
 ![Anaconda](https://img.shields.io/badge/-Anaconda-000000?style=flat&logo=anaconda)
 ![Qt](https://img.shields.io/badge/-Qt-000000?style=flat&logo=qt)
 ![PyQt5](https://img.shields.io/badge/-PyQt5-000000?style=flat&logo=qt)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=matplotlib)
-![Unreal Engine 4](https://img.shields.io/badge/-UnrealEngine4-000000?style=flat&logo=ue4)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=python)
+![Unreal Engine 4](https://img.shields.io/badge/-UnrealEngine4-000000?style=flat&logo=C%2B%2B&)
 ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD)
 ![BootStrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
 
