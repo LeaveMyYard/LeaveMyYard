@@ -52,11 +52,3 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=LeaveMyYard&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeaveMyYard&hide=java&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-**Also, check this out**
-
-<div align="center">
-	<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-		<img src="https://github.com/sindresorhus/sindresorhus/raw/master/info.svg?sanitize=true">
-	</a>
-</div>
