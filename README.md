@@ -15,14 +15,14 @@
 
 **Languages I have used**
 
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
-![Solidity](https://img.shields.io/badge/-Solidity-000000?style=flat&logo=ethereum)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
-![LaTeX](https://img.shields.io/badge/-LATEX-000000?style=flat&logo=LaTeX)
+![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python)
+![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
+![Solidity](https://img.shields.io/badge/-Solidity-000000?style=for-the-badge&logo=ethereum)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
+![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=Java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL)
+![LaTeX](https://img.shields.io/badge/-LATEX-000000?style=for-the-badge&logo=LaTeX)
 
 **Some of the technologies I have worked with**
 
