@@ -18,8 +18,8 @@
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python)
 ![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
 ![Solidity](https://img.shields.io/badge/-Solidity-000000?style=for-the-badge&logo=ethereum)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL)
 ![LaTeX](https://img.shields.io/badge/-LATEX-000000?style=for-the-badge&logo=LaTeX)
 
