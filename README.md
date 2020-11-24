@@ -5,7 +5,7 @@
 **Do you wanna develop an app?**
 
 -   :mortar_board: Applied mathematics student in Odessa I.I.Mechnikov National University (4th grade)
--   :test_tube: Working in a startup, using ML, Python and Cuda
+-   :test_tube: Working with Python, JS, Solidity right now
 -   :moneybag: A big fan of blockchain and cryptocurrencies
 
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/LeaveMyYard)
