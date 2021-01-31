@@ -31,18 +31,17 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000000?style=for-the-badge&logo=tensorflow)
 ![Cuda](https://img.shields.io/badge/-Cuda-000000?style=for-the-badge&logo=nvidia)
 ![NumPy](https://img.shields.io/badge/-Numpy-000000?style=for-the-badge&logo=python)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000000?style=for-the-badge&logo=kubernetes)
+![Jenkins](https://img.shields.io/badge/-Jenkins-000000?style=for-the-badge&logo=jenkins)
 ![Pandas](https://img.shields.io/badge/-Pandas-000000?style=for-the-badge&logo=pandas)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-000000?style=for-the-badge&logo=anaconda)
 ![Qt](https://img.shields.io/badge/-Qt-000000?style=for-the-badge&logo=qt)
-![PyQt5](https://img.shields.io/badge/-PyQt5-000000?style=for-the-badge&logo=qt)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=for-the-badge&logo=python)
 ![Unreal Engine 4](https://img.shields.io/badge/-UnrealEngine4-000000?style=for-the-badge&logo=C%2B%2B&)
-![jQuery](https://img.shields.io/badge/-jQuery-000000?style=for-the-badge&logo=jQuery&logoColor=0769AD)
-![BootStrap](https://img.shields.io/badge/-Bootstrap-000000?style=for-the-badge&logo=bootstrap)
 ![SQLite3](https://img.shields.io/badge/-SQLite3-000000?style=for-the-badge&logo=sqlite)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=for-the-badge&logo=C%2B%2B&)
-![Android Studio](https://img.shields.io/badge/-AndroidStudio-000000?style=for-the-badge&logo=android)
 
 **I am a codewars player, check my stats**
 
