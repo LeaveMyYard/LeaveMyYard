@@ -28,6 +28,7 @@
 ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=FFFFFF)
+![Celery](https://img.shields.io/badge/-Celery-000000?style=for-the-badge&logo=Celery&logoColor=FFFFFF)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000000?style=for-the-badge&logo=tensorflow)
 ![Cuda](https://img.shields.io/badge/-Cuda-000000?style=for-the-badge&logo=nvidia)
 ![NumPy](https://img.shields.io/badge/-Numpy-000000?style=for-the-badge&logo=python)
