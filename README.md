@@ -10,8 +10,6 @@
 
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/LeaveMyYard)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zhukovpavel2001@gmail.com)
-<a href="http://LeaveMyYard.github.io/donate/bitcoin.html"><img src="https://img.shields.io/badge/-BITCOIN-FCD12A?style=for-the-badge&logo=bitcoin&logoColor=white)"></a>
-<a href="http://LeaveMyYard.github.io/donate/ethereum.html"><img src="https://img.shields.io/badge/-ETHEREUM-551A8B?style=for-the-badge&logo=ethereum&logoColor=white)"></a>
 
 **Languages I have used**
 
