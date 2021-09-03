@@ -4,7 +4,7 @@
 
 **Do you wanna develop an app?**
 
--   :mortar_board: Applied mathematics student in Odessa I.I.Mechnikov National University (4th grade)
+-   :mortar_board: Bachelor of applied mathematics in Odessa I.I.Mechnikov National University
 -   :test_tube: Working with Python, JS, Solidity right now
 -   :moneybag: A big fan of blockchain and cryptocurrencies
 
