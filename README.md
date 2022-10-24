@@ -4,13 +4,6 @@
 
 **Do you wanna develop an app?**
 
--   :mortar_board: Bachelor of applied mathematics in Odessa I.I.Mechnikov National University
--   :test_tube: Working with Python, JS, Solidity right now
--   :moneybag: A big fan of blockchain and cryptocurrencies
-
-[![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/LeaveMyYard)
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zhukovpavel2001@gmail.com)
-
 **Languages I have used**
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python)
@@ -40,11 +33,4 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=for-the-badge&logo=C%2B%2B&)
 
-**I am a codewars player, check my stats**
-
 ![Codewars stats](https://www.codewars.com/users/LeaveMyYard/badges/large)
-
-**Some stats**
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=LeaveMyYard&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeaveMyYard&hide=java&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
