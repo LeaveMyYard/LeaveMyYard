@@ -2,10 +2,6 @@
 	<img src = "https://media.giphy.com/media/KxtZLJlAAwNGUVH2eV/giphy.gif">
 </div>
 
-**Do you wanna develop an app?**
-
-**Languages I have used**
-
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python)
 ![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
 ![Solidity](https://img.shields.io/badge/-Solidity-000000?style=for-the-badge&logo=ethereum)
@@ -14,7 +10,6 @@
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL)
 ![LaTeX](https://img.shields.io/badge/-LATEX-000000?style=for-the-badge&logo=LaTeX)
 
-**Some of the technologies I have worked with**
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF)
